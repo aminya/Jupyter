@@ -7,7 +7,7 @@ numpy
 pandas
 requests
 seaborn
-sklearn
+scikit-learn
 tabulate
 scikit-fuzzy
 pillow
